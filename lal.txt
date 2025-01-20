@@ -23,7 +23,7 @@ SELECT department_id, COUNT(*) AS number_of_courses
 FROM degrees
 GROUP BY department_id
 
-	SELECT
+
 
 1. Selezionare tutti gli studenti nati nel 1990 (160)
 
